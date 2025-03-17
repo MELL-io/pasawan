@@ -3,3 +3,4 @@ plugins:
 - jekyll-remote-theme # add this line to the plugins list 
 title: [About donkeys and llamas]
 description: [When llamas and donkeys do a roadtrip]
+show_downloads: ["true"]
